@@ -1,4 +1,4 @@
-# 🚀 Shivabasava Matur | AIML Engineer Portfolio
+# Shivabasava Matur | AIML Engineer Portfolio
 
 Welcome to the source code of my interactive engineering portfolio. 
 
